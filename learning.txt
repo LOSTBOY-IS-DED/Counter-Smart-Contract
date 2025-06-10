@@ -1,0 +1,1 @@
+cargo build-sbf // if it doesnt works then download the so file from solana palyground
